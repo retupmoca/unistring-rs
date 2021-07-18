@@ -5,7 +5,7 @@ authors = ["Andrew <andrew@egeler.us>"]
 edition = "2018"
 description = "Helper functions for unicode in a terminal/monospace environment"
 repository = "https://github.com/retupmoca/unistring-rs"
-license = "LGPL-3.0-or-later"
+license = "MPL-2.0"
 keywords = ["unicode"]
 
 links = "unistring"
