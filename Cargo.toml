@@ -3,8 +3,12 @@ name = "unistring"
 version = "0.1.0"
 authors = ["Andrew <andrew@egeler.us>"]
 edition = "2018"
+description = "Helper functions for unicode in a terminal/monospace environment"
+repository = "https://github.com/retupmoca/unistring-rs"
 license = "LGPL-3.0-or-later"
 keywords = ["unicode"]
+
+links = "unistring"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
